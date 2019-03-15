@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Educational Java Quiz</string>
+    <string name="java_quiz">Java Quizzes</string>
+
+    <!--Quiz one -->
+    <string name="quiz_1">1-How many primitive data types are there in Java?</string>
+    <string name="quiz_1_answer_1">6</string>
+    <string name="quiz_1_answer_2">7</string>
+    <string name="quiz_1_answer_3">8</string>
+    <string name="quiz_1_answer_4">9</string>
+
+    <!--Quiz Two -->
+    <string name="quiz_2">2-Method Overloading is an example of?</string>
+    <string name="quiz_2_answer_1">Static Binding</string>
+    <string name="quiz_2_answer_2">Dynamic Binding</string>
+
+    <!--Quiz Three -->
+    <string name="quiz_3">3-An array in the Java programming language has the ability to store many different types of values.</string>
+    <string name="quiz_3_answer_1">True</string>
+    <string name="quiz_3_answer_2">False</string>
+
+    <!--Quiz Four -->
+    <string name="quiz_4">4-Which of these words are Java Keyword?</string>
+    <string name="quiz_4_answer_1">int</string>
+    <string name="quiz_4_answer_2">string</string>
+    <string name="quiz_4_answer_3">class</string>
+    <string name="quiz_4_answer_4">variable</string>
+
+    <!--Quiz Five -->
+    <string name="quiz_5">5-public class Test { }
+        What is the prototype of the default constructor?</string>
+    <string name="quiz_5_answer_1">Test( )</string>
+    <string name="quiz_5_answer_2">Test(void)</string>
+    <string name="quiz_5_answer_3">public Test( )</string>
+    <string name="quiz_5_answer_4">public Test(void)</string>
+
+
+    <string name="submit">Submit</string>
+
+
+</resources>
